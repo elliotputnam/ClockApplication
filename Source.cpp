@@ -2,8 +2,7 @@
 Elliot Putnam
 CS210
 
-This program is designed for ChadaTech to dispay two clock formats
-simultaneously(12H and 24H)
+This program is designed to dispay two clock formats simultaneously (12H and 24H)
 */
 
 #include <iostream>
